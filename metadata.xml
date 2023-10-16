@@ -5,7 +5,7 @@
     <metadataSchema>ADL SCORM 1.2</metadataSchema>
     <identifier>
       <catalog>URI</catalog>
-      <entry>com.H5P作者.efwe.61003e70-edef-42ea-9b59-145c6435f913</entry>
+      <entry>com.H5P作者.麋鹿單元小測驗.cfe6949a-8e0a-4b68-9bc7-7818bb63506b</entry>
     </identifier>
     <language>zh</language>
     <contribute>
@@ -26,10 +26,10 @@ END:VCARD  ]]></entity>
   <general>
     <identifier>
       <catalog>URI</catalog>
-      <entry>com.H5P作者.efwe.61003e70-edef-42ea-9b59-145c6435f913</entry>
+      <entry>com.H5P作者.麋鹿單元小測驗.cfe6949a-8e0a-4b68-9bc7-7818bb63506b</entry>
     </identifier>
     <title>
-      <string language="zh"><![CDATA[efwe]]></string>
+      <string language="zh"><![CDATA[麋鹿單元小測驗]]></string>
     </title>
     <language>zh</language>
     <description>
@@ -110,7 +110,7 @@ END:VCARD  ]]></entity>
     <format>text/html</format>
     <format>application/x-javascript</format>
     <format>text/css</format>
-    <size>480109</size>
+    <size/>
     <location>index.html</location>
     <duration>
       <duration>PT0H0M0S</duration>
