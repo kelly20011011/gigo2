@@ -7,9 +7,9 @@
   </metadata>
   <organizations default="H5P作者">
     <organization identifier="H5P作者">
-      <title>china</title>
+      <title>efwe</title>
       <item identifier="item_00" identifierref="resource_00">
-        <title>china</title>
+        <title>efwe</title>
         <adlcp:masteryscore>70</adlcp:masteryscore>
         <metadata>
           <schema>ADL SCORM</schema>
@@ -39,7 +39,6 @@
       <file href="SCORM_API_wrapper.js"/>
       <file href="h5p-adaptor.js"/>
       <file href="index.html"/>
-      <file href="videos/video-L8fUKgfr.mp4"/>
     </resource>
   </resources>
 </manifest>
